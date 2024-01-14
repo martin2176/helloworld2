@@ -7,3 +7,4 @@ resourcelimits:
  cpurequest: "100m"
  memrequest: "64Mi"
 path: "/hello"
+createingress: true
