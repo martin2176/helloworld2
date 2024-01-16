@@ -1,5 +1,6 @@
 servicename: <+service.identifier>
 fullimagepath: <+artifacts.primary.image>
+imagepath: <+artifacts.primary.imagePath>
 version: version98
 replicas: 1
 port: 5000
