@@ -1,5 +1,5 @@
 version: "version98"
-replicas: 1
+replicas: 8
 port: 5000
 resourcelimits:
  cpurequest: "50m"
