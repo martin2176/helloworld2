@@ -5,4 +5,3 @@ resourcelimits:
  memrequest: "64Mi"
 path: "/hello"
 createingress: false
-version: "version97"
