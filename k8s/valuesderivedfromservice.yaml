@@ -1,5 +1,5 @@
 servicename: <+service.identifier>
 fullimagepath: <+artifacts.primary.image>
 imagepath: <+artifacts.primary.imagePath>
-cpurequest: <+serviceVariables.requests.cpu>
-memrequest: <+serviceVariables.requests.memory>
+cpurequest: <+serviceVariables.requestscpu>
+memrequest: <+serviceVariables.requestsmemory>
